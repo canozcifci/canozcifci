@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canozcifci
 - 👀 I’m interested in robotics/electronics/programming stuff.
-- 🌱 I’m currently learning robotics/image_processing.
+- 🌱 I’m currently learning ai/software/hardware design.
 - 💞️ I’m looking to collaborate on hardware/software design.
 - 📫 Reach me via cangoksu191@gmail.com.
 
